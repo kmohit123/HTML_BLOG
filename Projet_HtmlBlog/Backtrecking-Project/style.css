@@ -1,0 +1,347 @@
+    
+        .mainbox{
+            border: 1px solid rgb(174, 176, 177);
+            margin-top: 45px;
+            margin-left: 250px;
+            margin-right: 250px;
+            border-radius: 2px;
+            
+
+        }
+        .box{
+            margin-left: 70px;
+            margin-right: 70px;
+           
+        }
+        .param{
+            color: rgb(174, 176, 177);
+        }
+        .box1{
+            border: 1px solid rgb(220, 222, 225);
+            border-radius: 10px;
+            background-color: rgb(244, 242, 242);
+        }
+        .param1{
+            margin-left: 20px;
+            margin-right: 20px;
+            font-size: 18px;
+            color: rgb(124, 125, 126);
+
+        }
+        .box2{
+            border: 1px solid rgb(220, 222, 225);
+            border-radius: 10px;
+            margin-right: 50px;
+            width: 860px;
+            height: 440px;
+           
+        }
+        .pre{
+            font-size: 16px;
+            margin-left: -116px;
+            color: dodgerblue;
+            margin-top: 30px;
+
+        }
+        .box3{
+            border: 1px solid rgb(220, 222, 225);
+            border-radius: 10px;
+            background-color: rgb(244, 242, 242);
+        }
+        .param3{
+            margin-left: 20px;
+            margin-right: 20px;
+            font-size: 18px;
+            color: rgb(124, 125, 126);
+
+        }
+        .uliist,.Llist{
+            font-size: 18px;
+            margin-top: 15px;
+            color: rgb(174, 176, 177);
+        }
+        .box4{
+            border: 1px solid rgb(220, 222, 225);
+            border-radius: 10px;
+            margin-right: 50px;
+            width: 860px;
+            height: 150px;
+        
+        }
+        .pre1{
+            font-size: 16px;
+            margin-left: -116px;
+            color: dodgerblue;
+            margin-top: 16px;
+
+        }
+        .box5{
+            border: 1px solid rgb(220, 222, 225);
+            border-radius: 10px;
+            margin-right: 50px;
+            width: 860px;
+            height: 180px;
+        
+        }
+        .pre2{
+            font-size: 16px;
+            margin-left: -116px;
+            color: dodgerblue;
+            margin-top: 4px;
+
+        }
+        .uliist1,.Llist1{
+            margin-left: -13px;
+        }
+        .Llist2,.Llist2{
+            margin-left: -13px;
+            margin-top: 13px;
+            color: rgb(174, 176, 177);
+            font-size: 18px;
+        }
+        .box6{
+            border: 1px solid rgb(220, 222, 225);
+            border-radius: 10px;
+            margin-right: 50px;
+            width: 860px;
+            height: 480px;
+        
+        }
+        .pre3{
+            font-size: 16px;
+            margin-left: -116px;
+            color: dodgerblue;
+            margin-top: 19px;
+
+        }
+        .box7{
+            border: 1px solid rgb(220, 222, 225);
+            border-radius: 10px;
+            margin-right: 50px;
+            width: 860px;
+            height: 570px;
+        
+        }
+        .pre4{
+            font-size: 16px;
+            margin-left: -116px;
+            color: dodgerblue;
+            margin-top: 19px;
+
+        }
+        .strong{
+            font-size: 19px;
+            color: black;
+        }
+        .box8{
+            border: 1px solid rgb(220, 222, 225);
+            border-radius: 10px;
+            margin-right: 50px;
+            width: 860px;
+            height: 450px;
+        
+        }
+        .pre5{
+            font-size: 16px;
+            margin-left: -120px;
+            color: dodgerblue;
+            margin-top: 19px;
+
+        }
+        .box9{
+            border: 1px solid rgb(220, 222, 225);
+            border-radius: 10px;
+            margin-right: 50px;
+            width: 860px;
+            height: 360px;
+        
+        }
+        .pre6{
+            font-size: 16px;
+            margin-left: -120px;
+            color: dodgerblue;
+            margin-top: 19px;
+
+        }
+        .box10{
+            border: 1px solid rgb(220, 222, 225);
+            border-radius: 10px;
+            margin-right: 50px;
+            width: 860px;
+            height: 140px;
+        
+        }
+        .pre7{
+            font-size: 16px;
+            margin-left: -120px;
+            color: dodgerblue;
+            margin-top: 19px;
+
+        }
+        .box11{
+            border: 1px solid rgb(220, 222, 225);
+            border-radius: 10px;
+            margin-right: 50px;
+            width: 860px;
+            height: 270px;
+        
+        }
+        .pre8{
+            font-size: 16px;
+            margin-left: -120px;
+            color: dodgerblue;
+            margin-top: 22px;
+
+        }
+        .Llist3,.Llist3{
+            margin-left: -13px;
+            margin-top: 13px;
+            color: rgb(174, 176, 177);
+            font-size: 18px;
+        }
+        .box12{
+            border: 1px solid rgb(220, 222, 225);
+            border-radius: 10px;
+            margin-right: 50px;
+            width: 860px;
+            height: 230px;
+        
+        }
+        .pre9{
+            font-size: 16px;
+            margin-left: -120px;
+            color: dodgerblue;
+            margin-top: 22px;
+
+        }.box13{
+            border: 1px solid rgb(220, 222, 225);
+            border-radius: 10px;
+            margin-right: 50px;
+            width: 860px;
+            height: 350px;
+        
+        }
+        .pre10{
+            font-size: 16px;
+            margin-left: -120px;
+            color: dodgerblue;
+            margin-top: 22px;
+            
+        }
+        .box14{
+            border: 1px solid rgb(220, 222, 225);
+            border-radius: 10px;
+            margin-right: 50px;
+            width: 860px;
+            height: 370px;
+    
+        }
+        .pre11{
+            font-size: 16px;
+            margin-left: -120px;
+            color: dodgerblue;
+            margin-top: 22px;
+        
+        }
+        .box15{
+            border: 1px solid rgb(220, 222, 225);
+            border-radius: 10px;
+            margin-right: 50px;
+            width: 860px;
+            height: 620px;
+    
+        }
+        .pre12{
+            font-size: 16px;
+            margin-left: -120px;
+            color: dodgerblue;
+            margin-top: 22px;
+        
+        }
+        .box16{
+            border: 1px solid rgb(220, 222, 225);
+            border-radius: 10px;
+            margin-right: 50px;
+            width: 860px;
+            height: 300px;
+    
+        }
+        .pre13{
+            font-size: 16px;
+            margin-left: -120px;
+            color: dodgerblue;
+            margin-top: 22px;
+        
+        }
+        .pre14{
+            font-size: 16px;
+            margin-left: -137px;
+            color: rgb(174, 176, 177);
+            margin-top: 22px;
+        
+        } 
+        .box17{
+            border: 1px solid rgb(220, 222, 225);
+            border-radius: 10px;
+            margin-right: 50px;
+            width: 860px;
+            height: 765px;
+    
+        }
+        .pre15{
+            font-size: 16px;
+            margin-left: -120px;
+            color: dodgerblue;
+            margin-top: 22px;
+        
+        } 
+        .box18{
+            border: 1px solid rgb(220, 222, 225);
+            border-radius: 10px;
+            margin-right: 50px;
+            width: 860px;
+            height: 80px;
+    
+        }
+        .pre16{
+            font-size: 16px;
+            margin-left: -120px;
+            color: dodgerblue;
+            margin-top: 22px;
+        
+        }
+        .box19{
+            border: 1px solid rgb(220, 222, 225);
+            border-radius: 10px;
+            margin-right: 50px;
+            width: 860px;
+            height: 270px;
+    
+        }
+        .pre17{
+            font-size: 16px;
+            margin-left: -120px;
+            color: dodgerblue;
+            margin-top: 22px;
+        
+        }
+        .box20{
+            border: 1px solid rgb(220, 222, 225);
+            border-radius: 10px;
+            margin-right: 50px;
+            width: 860px;
+            height: 480px;
+    
+        }
+        .pre19{
+            font-size: 16px;
+            margin-left: -120px;
+            color: dodgerblue;
+            margin-top: 22px;
+        
+        } 
+        
+
+
+     
+    
